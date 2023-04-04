@@ -1,2 +1,0 @@
-- name: check-cve
-  uses: kunalnagarco/action-cve@v1.7.25
